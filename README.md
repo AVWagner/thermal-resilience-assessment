@@ -9,4 +9,8 @@ Workflow:
 The proposed simulation workflow requires an IDF of the current state scenario (including all relevant building parameters). 
 1. "Sensitivity analysis" 
 2. Postprocessing 
-2.1 SA- 
+2.1 "SA_performance_analysis"
+2.2 "SA_performance_analysis_best overall"
+2.3 "SA_variable_values_analysis"
+3. Evaluation
+3.1 "Retrofit_index calculation"
