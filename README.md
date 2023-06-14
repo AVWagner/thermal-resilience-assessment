@@ -19,6 +19,7 @@ The proposed simulation workflow requires an IDF of the current state scenario (
 
 Note that following libraries are used: 
 EPPY: Santosh, P. (2022). Eppy Documentation. https://buildmedia.readthedocs.org/media/pdf/eppy/latest/eppy.pdf
-NUMPY Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M. H., Brett, M., Haldane, A., del Río, J. F., Wiebe, M., Peterson, P., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2
-PYTHERMALCOMFORT Tartarini, F., & Schiavon, S. (2020). pythermalcomfort: A Python package for thermal comfort research. SoftwareX, 12, 100578. https://doi.org/10.1016/j.softx.2020.100578
-SALib Herman, J., & Usher, W. (2017). SALib: An open-source Python library for Sensitivity Analysis. The Journal of Open Source Software, 2(9), 97. https://doi.org/10.21105/joss.00097
+NUMPY: Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., Wieser, E., Taylor, J., Berg, S., Smith, N. J., Kern, R., Picus, M., Hoyer, S., van Kerkwijk, M. H., Brett, M., Haldane, A., del Río, J. F., Wiebe, M., Peterson, P., … Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2
+PANDAS: McKinney, W., et al. pandas: powerful Python data analysis toolkit. Version 1.5.3. Available: https://pandas.pydata.org/docs/
+PYTHERMALCOMFORT: Tartarini, F., & Schiavon, S. (2020). pythermalcomfort: A Python package for thermal comfort research. SoftwareX, 12, 100578. https://doi.org/10.1016/j.softx.2020.100578
+SALib: Herman, J., & Usher, W. (2017). SALib: An open-source Python library for Sensitivity Analysis. The Journal of Open Source Software, 2(9), 97. https://doi.org/10.21105/joss.00097
